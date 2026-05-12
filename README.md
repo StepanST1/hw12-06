@@ -123,5 +123,5 @@ START REPLICA;
 Проверка
 `SHOW REPLICA STATUS\G`   
 
-![FINAL](/img/Screenshot_5.png)
+![FINAL](/img/Screenshot_6.png)
 ---
